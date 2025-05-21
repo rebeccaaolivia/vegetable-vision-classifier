@@ -86,7 +86,7 @@ The project includes code to perform inference on random test images, showing bo
 To run this project, you'll need:
 - Python 3.7+
 - TensorFlow 2.x
-- Other dependencies listed in `requirements.txt`
+- Other dependencies listed in [`requirements.txt`](https://github.com/rebeccaaolivia/vegerable-vision-classifier/blob/main/requirements.txt)
 
 Install requirements with:
 ```
