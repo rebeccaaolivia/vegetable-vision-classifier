@@ -80,6 +80,7 @@ The project includes code to perform inference on random test images, showing bo
 <p align="center">
   <em>Figure 3. SavedModel inference</em>
 </p>
+</div>
 
 ## 🛠️ Requirements
 To run this project, you'll need:
