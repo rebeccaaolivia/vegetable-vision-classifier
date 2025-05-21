@@ -94,11 +94,11 @@ pip install -r requirements.txt
 ```
 
 ## ✅ Dicoding Submission Checklist
-1. >1000 images dataset ✔️
+1. \>1000 images dataset ✔️
 2. Original dataset ✔️
 3. Proper train/val/test split ✔️
 4. Sequential + Conv2D model ✔️
-5. >85% accuracy (Achieved 96.97%) ✔️
+5. \>85% accuracy (Achieved 96.97%) ✔️
 6. Accuracy/loss plots ✔️
 7. SavedModel/TFLite/TFJS exports ✔️
 
